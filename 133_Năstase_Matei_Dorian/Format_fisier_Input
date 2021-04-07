@@ -1,9 +1,0 @@
-Număr stări (N)
-Stările automatului - nr întregi, nu neapărat consecutive -> pe aceeași linie!
-Nr tranziții (M)
-Descrierea tranzițiilor
-Starea inițială (S)
-Număr stări finale (nrF) -> pe aceeași linie!
-Stările finale
-Numărul de cuvinte ce vor fi verificate (NrCuv)
-Cuvinte
